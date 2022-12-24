@@ -1,2 +1,2 @@
 # MechMe
-https://abdirizak-byte.github.io/MechMe/
+https://avelauw.github.io/MechMe/
